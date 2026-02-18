@@ -22,8 +22,8 @@ This project aims to predict student academic performance (Pass/Fail) using mach
    - Confusion Matrix
 
 ## 📈 Results
-Logistic Regression Accuracy: 0.92
-Decision Tree Accuracy: 0.84
+Logistic Regression Accuracy: 92.4%
+Decision Tree Accuracy: 84.81%
 
 Logistic Regression showed better generalization performance on the dataset.
 
